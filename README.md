@@ -1,4 +1,4 @@
-# AfAS 2024 PANOPTES Workshop
+# [AfAS 2024](https://conference.afasociety.org/) PANOPTES Workshop
 
 ## Title
 
