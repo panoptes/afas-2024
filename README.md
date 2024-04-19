@@ -2,6 +2,8 @@
 
 # Notebooks
 
+> ℹ️ Note that a Google account is required to use Colab.
+
 | Notebook          | Description                                                                                              | Link                                                                                                                                                                                                                                     |
 |-------------------|----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Stack Observation | Demonstrates how to search for and download PANOPTES data as well as perform some simple image stacking. | <a target="_blank" href="https://colab.research.google.com/github/panoptes/afas-2024/blob/main/notebooks/PANOPTES Stack Observation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
